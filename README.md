@@ -128,7 +128,7 @@ Thank You Page
 
 ## OUTPUT:
 
-![alt text](exp9figma.png)
+![exp9figma](https://github.com/ikeerthivasanswaminathan/Figma/assets/148937372/c87f0b1f-ac0d-4685-ac78-292bf50c6aac)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
